@@ -3,7 +3,7 @@
 # Door Locking System with Arduino
 
 ## Overview
-This project implements a door locking system using an Arduino. The system uses a keypad for password entry, a servo motor for locking and unlocking the door, and an LCD display to provide user feedback.
+This project implements a door-locking system using an Arduino. The system uses a keypad for password entry, a servo motor for locking and unlocking the door, and an LCD display to provide user feedback.
 
 ## Features
 - Password-based door locking mechanism.
@@ -13,10 +13,10 @@ This project implements a door locking system using an Arduino. The system uses 
 - Configurable master password.
 
 ## Components
-- Arduino (e.g., Arduino Uno)
+- Arduino Uno
 - 4x4 Keypad
-- Servo motor (e.g., SG90)
-- LCD display (16x2)
+- Servo motor 
+- LCD 16x2
 - Breadboard and jumper wires
 - Power supply
 
@@ -40,10 +40,6 @@ This project implements a door locking system using an Arduino. The system uses 
 3. Connect the LCD display to analog pins A0 to A5.
 4. Connect the power supply to the Arduino.
 
-### Software Setup
-1. Clone this repository:
-2. 
-   git clone https://github.com/your-username/door-locking-system-with-arduino.git
 
 
 
